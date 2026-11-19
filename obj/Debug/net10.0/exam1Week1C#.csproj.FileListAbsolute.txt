@@ -12,3 +12,4 @@ C:\Users\USER\Desktop\C#\exam1Week1C#\obj\Debug\net10.0\refint\exam1Week1C#.dll
 C:\Users\USER\Desktop\C#\exam1Week1C#\obj\Debug\net10.0\exam1Week1C#.pdb
 C:\Users\USER\Desktop\C#\exam1Week1C#\obj\Debug\net10.0\exam1Week1C#.genruntimeconfig.cache
 C:\Users\USER\Desktop\C#\exam1Week1C#\obj\Debug\net10.0\ref\exam1Week1C#.dll
+C:\Users\USER\Desktop\C#\exam1week1C#\obj\Debug\net10.0\exam1Week1C#.sourcelink.json
